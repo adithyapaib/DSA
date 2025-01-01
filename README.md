@@ -32,4 +32,4 @@ If you are interested in contributing to this repository, please follow the [Con
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the   DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE Version 2 - see the [LICENSE](LICENSE) file for details.
