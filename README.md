@@ -25,3 +25,11 @@ This is a repository for all the **Data Structures and Algorithms** concepts and
     - Solve problems using memoization, tabulation, and optimization techniques.  
 11. [⚡ Bit Manipulation](11.bit_manipulation.md)  
     - Learn bitwise operations, toggling bits, and solving bit-level problems.  
+
+## 📝 Contribute
+
+If you are interested in contributing to this repository, please follow the [Contribution Guidelines](CONTRIBUTING.md).
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
