@@ -19,7 +19,7 @@ This is a repository for all the **Data Structures and Algorithms** concepts and
    - Learn about simple, circular, and priority queues with use cases.  
 8. [🌳 Trees](8.trees.md)  
    - Traverse binary trees, binary search trees, and solve tree-related problems.  
-9. [🌐 Graphs](9.graphs.md)  
+9. [🌐 Graphs](09graphs.md)  
    - Work on graph traversal, shortest paths, and cycle detection algorithms.  
 10. [💡 Dynamic Programming](10.dynamic_programming.md)  
     - Solve problems using memoization, tabulation, and optimization techniques.  
