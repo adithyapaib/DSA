@@ -26,7 +26,7 @@ This is a repository for all the **Data Structures and Algorithms** concepts and
 11. [⚡ Bit Manipulation](11.bit_manipulation.md)  
     - Learn bitwise operations, toggling bits, and solving bit-level problems.  
 
-12. [Sorting 🔄](12.sorting.md)  
+12. [Sorting 🔄](12sorting.md)  
     - Understand sorting algorithms, their complexities, and applications.
 
 ## 📝 Contribute
